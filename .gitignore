@@ -1,0 +1,4 @@
+aws-credential/
+terra_tokens.txt
+*.terraform*
+*.tfstate*
